@@ -1,19 +1,39 @@
 import datetime
+import time
 import urllib.request
+import urllib.error
 import xml.etree.ElementTree as ET
 
 def fetch_arxiv_robotics_papers():
-    # ArXiv API for Robotics (cs.RO) and Artificial Intelligence (cs.AI)
     url = 'https://export.arxiv.org/api/query?search_query=cat:cs.RO+OR+cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=3'
     
-    # Adding User-Agent to avoid HTTP 503 / blocking by ArXiv servers
-    req = urllib.request.Request(
-        url, 
-        headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-    )
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    }
     
-    with urllib.request.urlopen(req) as response:
-        data = response.read().decode('utf-8')
+    req = urllib.request.Request(url, headers=headers)
+    
+    # Retry loop: 5 baar try karega agar 503 error aata hai
+    max_retries = 5
+    for attempt in range(1, max_retries + 1):
+        try:
+            print(f"Fetching papers from ArXiv (Attempt {attempt}/{max_retries})...")
+            with urllib.request.urlopen(req, timeout=15) as response:
+                data = response.read().decode('utf-8')
+                break # Success! Loop break kar do
+        except urllib.error.HTTPError as e:
+            print(f"HTTP Error {e.code}: {e.reason}")
+            if attempt < max_retries:
+                print("Server busy. Waiting 5 seconds before retrying...")
+                time.sleep(5)
+            else:
+                raise e
+        except Exception as e:
+            print(f"Error: {e}")
+            if attempt < max_retries:
+                time.sleep(5)
+            else:
+                raise e
     
     root = ET.fromstring(data)
     ns = {'arxiv': 'http://www.w3.org/2005/Atom'}
@@ -34,14 +54,18 @@ def fetch_arxiv_robotics_papers():
     return papers
 
 def update_markdown_digest():
-    # Modern timezone-aware datetime (Fixes DeprecationWarning)
     now = datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=5, minutes=30) # IST Time
     date_str = now.strftime("%Y-%m-%d")
     time_str = now.strftime("%I:%M %p IST")
-    month_year_str = now.strftime("%b_%Y") # e.g. Aug_2026
+    month_year_str = now.strftime("%b_%Y")
     
     filename = f"Daily_Robotics_Paper_{month_year_str}.md"
-    papers = fetch_arxiv_robotics_papers()
+    
+    try:
+        papers = fetch_arxiv_robotics_papers()
+    except Exception as e:
+        print(f"Failed to fetch papers after retries: {e}")
+        return # Pipeline fail karne ke bajaye exit karega taaki action block na ho
     
     content = f"\n\n### 🤖 Robotics & AI Digest - Updated at {time_str} ({date_str})\n\n"
     for i, paper in enumerate(papers, 1):
