@@ -4,10 +4,16 @@ import xml.etree.ElementTree as ET
 
 def fetch_arxiv_robotics_papers():
     # ArXiv API for Robotics (cs.RO) and Artificial Intelligence (cs.AI)
-    url = 'http://export.arxiv.org/api/query?search_query=cat:cs.RO+OR+cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=3'
+    url = 'https://export.arxiv.org/api/query?search_query=cat:cs.RO+OR+cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=3'
     
-    req = urllib.request.urlopen(url)
-    data = req.read().decode('utf-8')
+    # Adding User-Agent to avoid HTTP 503 / blocking by ArXiv servers
+    req = urllib.request.Request(
+        url, 
+        headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+    )
+    
+    with urllib.request.urlopen(req) as response:
+        data = response.read().decode('utf-8')
     
     root = ET.fromstring(data)
     ns = {'arxiv': 'http://www.w3.org/2005/Atom'}
@@ -28,10 +34,11 @@ def fetch_arxiv_robotics_papers():
     return papers
 
 def update_markdown_digest():
-    now = datetime.datetime.utcnow() + datetime.timedelta(hours=5, minutes=30) # IST Time
+    # Modern timezone-aware datetime (Fixes DeprecationWarning)
+    now = datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=5, minutes=30) # IST Time
     date_str = now.strftime("%Y-%m-%d")
     time_str = now.strftime("%I:%M %p IST")
-    month_year_str = now.strftime("%b_%Y") # Creates files like Daily_Robotics_Paper_Aug_2026.md
+    month_year_str = now.strftime("%b_%Y") # e.g. Aug_2026
     
     filename = f"Daily_Robotics_Paper_{month_year_str}.md"
     papers = fetch_arxiv_robotics_papers()
