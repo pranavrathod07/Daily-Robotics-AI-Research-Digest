@@ -58,3 +58,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.05138v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 10:06 AM IST (2026-08-07)
+
+#### 1. Learning When to Trust via Selective Context Preference Optimization
+- **Published Date:** 2026-08-06
+- **Summary:** Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.06377v1)
+
+#### 2. $ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation
+- **Published Date:** 2026-08-06
+- **Summary:** Humanoid household tasks often require concurrent loco-manipulation, where the robot must move, adjust posture, maintain balance, and manipulate objects as a single coordinated behavior. Yet existing ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.06375v1)
+
+#### 3. DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation
+- **Published Date:** 2026-08-06
+- **Summary:** Vision-Language-Action (VLA) models have become a powerful paradigm for robot manipulation, but training a single generalist policy for heterogeneous robot embodiments remains an open problem. Existin...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.06374v1)
+
+---
