@@ -298,3 +298,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.07457v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 09:00 PM IST (2026-08-10)
+
+#### 1. CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity
+- **Published Date:** 2026-08-07
+- **Summary:** While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.07460v1)
+
+#### 2. CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG
+- **Published Date:** 2026-08-07
+- **Summary:** Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved contexts for higher efficiency, while significant infor...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.07458v1)
+
+#### 3. Interaction Creates Dynamical AI Behavior Absent in Isolation
+- **Published Date:** 2026-08-07
+- **Summary:** What will happen when AI agents interact in daily life, e.g. when one AI starts bossing another around? We find a counterintuitive answer that opens new avenues for out-of-equilibrium Physics. When a ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.07457v1)
+
+---
