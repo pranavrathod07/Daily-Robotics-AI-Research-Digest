@@ -358,3 +358,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.09925v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 08:59 PM IST (2026-08-11)
+
+#### 1. Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions
+- **Published Date:** 2026-08-10
+- **Summary:** Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (Audio-LLM) judges) are expected to reflect human perception, yet it is unclear h...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.09930v1)
+
+#### 2. Multimodal Model Diffing for Feature Discovery and Control
+- **Published Date:** 2026-08-10
+- **Summary:** Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.09928v1)
+
+#### 3. From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch
+- **Published Date:** 2026-08-10
+- **Summary:** Large language models are increasingly being deployed in governmental settings, yet few existing evaluation frameworks jointly reflect the values of public administration and the linguistic requiremen...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.09925v1)
+
+---
