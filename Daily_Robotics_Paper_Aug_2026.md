@@ -378,3 +378,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.09925v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 09:51 AM IST (2026-08-12)
+
+#### 1. Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning
+- **Published Date:** 2026-08-11
+- **Summary:** Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics ar...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.11204v1)
+
+#### 2. ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls
+- **Published Date:** 2026-08-11
+- **Summary:** Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.11200v1)
+
+#### 3. Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration
+- **Published Date:** 2026-08-11
+- **Summary:** AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on t...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.11195v1)
+
+---
