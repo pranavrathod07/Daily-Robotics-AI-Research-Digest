@@ -418,3 +418,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.11195v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 09:54 AM IST (2026-08-13)
+
+#### 1. DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation
+- **Published Date:** 2026-08-12
+- **Summary:** Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.12308v1)
+
+#### 2. AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses
+- **Published Date:** 2026-08-12
+- **Summary:** Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.12307v1)
+
+#### 3. Redistribution-based Cost Inference Improves Sparse Safe Offline RL
+- **Published Date:** 2026-08-12
+- **Summary:** Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, wi...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.12306v1)
+
+---
