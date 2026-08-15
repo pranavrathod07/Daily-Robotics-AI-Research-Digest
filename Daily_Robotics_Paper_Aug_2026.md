@@ -558,3 +558,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.13555v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 02:26 PM IST (2026-08-15)
+
+#### 1. AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design
+- **Published Date:** 2026-08-13
+- **Summary:** Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.13560v1)
+
+#### 2. OmniScientist: An Omni-Modal Omni-Discipline AI Scientist
+- **Published Date:** 2026-08-13
+- **Summary:** Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workf...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.13558v1)
+
+#### 3. HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark
+- **Published Date:** 2026-08-13
+- **Summary:** Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences b...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.13555v1)
+
+---
