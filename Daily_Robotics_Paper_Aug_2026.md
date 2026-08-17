@@ -658,3 +658,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.13555v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 08:57 AM IST (2026-08-17)
+
+#### 1. Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils
+- **Published Date:** 2026-08-14
+- **Summary:** Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contempor...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.14539v1)
+
+#### 2. Spatiotemporal Tube-Based Safety-Certificate for Autonomous Navigation of Articulated Vehicles
+- **Published Date:** 2026-08-14
+- **Summary:** Articulated vehicles are the workhorses of freight transportation, and their autonomous navigation is challenging. Their physical characteristics and motion constraints pose significant challenges in ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.14531v1)
+
+#### 3. Marionette: Predicting World States, Rendering Geometry, Painting Appearance
+- **Published Date:** 2026-08-14
+- **Summary:** Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maintain...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.14530v1)
+
+---
