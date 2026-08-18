@@ -718,3 +718,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.14530v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 08:52 AM IST (2026-08-18)
+
+#### 1. Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory
+- **Published Date:** 2026-08-17
+- **Summary:** Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: err...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.16889v1)
+
+#### 2. $τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation
+- **Published Date:** 2026-08-17
+- **Summary:** Long-horizon robot manipulation requires a robot to both execute individual skills reliably and sequence them coherently over extended tasks. Most hierarchical vision-language-action (VLA) models make...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.16885v1)
+
+#### 3. Improving the matrix multiplication exponent with modern optimization and AlphaEvolve
+- **Published Date:** 2026-08-17
+- **Summary:** The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alma...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.16884v1)
+
+---
