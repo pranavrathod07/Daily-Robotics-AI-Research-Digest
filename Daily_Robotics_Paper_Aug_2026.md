@@ -798,3 +798,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.18066v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 02:36 PM IST (2026-08-19)
+
+#### 1. Hydra-0: Action Flow for Generalist World Modeling and Control
+- **Published Date:** 2026-08-18
+- **Summary:** We introduce Hydra-0, a generalist world model conditioned on action flow, which represents robot actions as pixel motion. This shared visual interface enables generalist world modeling and control by...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.18077v1)
+
+#### 2. From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation
+- **Published Date:** 2026-08-18
+- **Summary:** Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A cen...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.18076v1)
+
+#### 3. On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification
+- **Published Date:** 2026-08-18
+- **Summary:** Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.18066v1)
+
+---
