@@ -818,3 +818,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.18066v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 08:54 AM IST (2026-08-20)
+
+#### 1. SPADE: Self-Play in Adaptive Synthetic Executable Environments
+- **Published Date:** 2026-08-19
+- **Summary:** Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.19197v1)
+
+#### 2. PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views
+- **Published Date:** 2026-08-19
+- **Summary:** Dual-arm robotic grasping is essential for manipulating large, heavy, and geometrically complex objects that cannot be reliably handled using a single manipulator. These large objects often contain on...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.19188v1)
+
+#### 3. ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning
+- **Published Date:** 2026-08-19
+- **Summary:** We introduce Accelerating Dexterity via Pre-Training (ADEPT), a large-scale reinforcement learning (RL) framework for learning sim-to-real transferable dexterity across high degree-of-freedom (DoF) ro...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.19182v1)
+
+---
