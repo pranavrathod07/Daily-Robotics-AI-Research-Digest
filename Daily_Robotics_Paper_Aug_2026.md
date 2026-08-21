@@ -858,3 +858,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.19182v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 08:59 AM IST (2026-08-21)
+
+#### 1. G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation
+- **Published Date:** 2026-08-20
+- **Summary:** Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-depende...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.20331v1)
+
+#### 2. An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction
+- **Published Date:** 2026-08-20
+- **Summary:** Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workfl...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.20320v1)
+
+#### 3. Inducing Task Models from Computer-Use Traces
+- **Published Date:** 2026-08-20
+- **Summary:** Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is do...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.20319v1)
+
+---
