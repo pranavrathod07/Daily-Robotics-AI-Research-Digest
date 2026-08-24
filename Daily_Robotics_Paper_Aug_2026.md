@@ -1058,3 +1058,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.21357v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 02:55 PM IST (2026-08-24)
+
+#### 1. Primal Acceleration of Newton's Method
+- **Published Date:** 2026-08-21
+- **Summary:** We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per ite...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.21359v1)
+
+#### 2. Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction
+- **Published Date:** 2026-08-21
+- **Summary:** Space resource acquisition and utilization, commonly referred to as Space Mining, represent critical pathways for enabling sustained human exploration and unlocking commercial opportunities in space. ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.21358v1)
+
+#### 3. VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences
+- **Published Date:** 2026-08-21
+- **Summary:** In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform researc...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.21357v1)
+
+---
