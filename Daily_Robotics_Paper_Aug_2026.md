@@ -1138,3 +1138,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.23564v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 08:51 PM IST (2026-08-25)
+
+#### 1. How to Train a Critic Stably and Efficiently
+- **Published Date:** 2026-08-24
+- **Summary:** Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.23566v1)
+
+#### 2. ReWorld: An Interactive World Model with Long-Horizon Memory
+- **Published Date:** 2026-08-24
+- **Summary:** An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounde...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.23565v1)
+
+#### 3. SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?
+- **Published Date:** 2026-08-24
+- **Summary:** Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.23564v1)
+
+---
