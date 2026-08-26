@@ -1178,3 +1178,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.24876v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 02:49 PM IST (2026-08-26)
+
+#### 1. Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning
+- **Published Date:** 2026-08-25
+- **Summary:** Action-conditioned world models are increasingly used as learned simulators for policy evaluation and improvement, yet their effectiveness rests on an unverified assumption: generated futures faithful...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.24885v1)
+
+#### 2. Latent Action as Intention Enables Efficient Future Imagination for World Action Models
+- **Published Date:** 2026-08-25
+- **Summary:** World action models (WAMs) improve robot control by modeling how observations evolve, but generating future observations at test time incurs substantial latency. Fast-WAM removes this process for effi...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.24882v1)
+
+#### 3. Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses
+- **Published Date:** 2026-08-25
+- **Summary:** Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Workin...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.24876v1)
+
+---
