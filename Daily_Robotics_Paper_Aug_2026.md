@@ -1238,3 +1238,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.26095v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 12:43 AM IST (2026-08-28)
+
+#### 1. VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning
+- **Published Date:** 2026-08-26
+- **Summary:** Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-c...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.26105v1)
+
+#### 2. Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization
+- **Published Date:** 2026-08-26
+- **Summary:** Zero-shot cross-task generalization, where a policy must execute manipulation tasks never seen during training, remains a central challenge in robot learning. In large language models, a novel task ca...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.26103v1)
+
+#### 3. A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training
+- **Published Date:** 2026-08-26
+- **Summary:** In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised p...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.26095v1)
+
+---
