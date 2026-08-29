@@ -1378,3 +1378,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.27442v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 11:17 PM IST (2026-08-29)
+
+#### 1. WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution
+- **Published Date:** 2026-08-27
+- **Summary:** Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.27454v1)
+
+#### 2. SWE-Prime: Fewer Trajectories, Better Performance
+- **Published Date:** 2026-08-27
+- **Summary:** To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.27449v1)
+
+#### 3. From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench
+- **Published Date:** 2026-08-27
+- **Summary:** In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Al...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.27442v1)
+
+---
