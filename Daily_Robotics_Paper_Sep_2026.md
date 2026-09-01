@@ -58,3 +58,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.31137v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 11:24 PM IST (2026-09-01)
+
+#### 1. SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies
+- **Published Date:** 2026-08-31
+- **Summary:** Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reacti...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.31167v1)
+
+#### 2. Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification
+- **Published Date:** 2026-08-31
+- **Summary:** The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, sup...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.31142v1)
+
+#### 3. OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques
+- **Published Date:** 2026-08-31
+- **Summary:** Ontology alignment (OA) has evolved through several methodological paradigms, ranging from lexical and structural aligners to knowledge graph embedding (KGE) models and, more recently, Large Language ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2608.31137v1)
+
+---
