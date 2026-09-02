@@ -98,3 +98,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.01600v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 06:24 PM IST (2026-09-02)
+
+#### 1. Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation
+- **Published Date:** 2026-09-01
+- **Summary:** Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation metho...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.01603v1)
+
+#### 2. Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation
+- **Published Date:** 2026-09-01
+- **Summary:** The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.01601v1)
+
+#### 3. CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?
+- **Published Date:** 2026-09-01
+- **Summary:** Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencie...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.01600v1)
+
+---
