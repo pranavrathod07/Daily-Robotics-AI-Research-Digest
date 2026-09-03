@@ -158,3 +158,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.02849v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 06:28 PM IST (2026-09-03)
+
+#### 1. Discriminative World Models for Web Agents
+- **Published Date:** 2026-09-02
+- **Summary:** Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PR...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.02885v1)
+
+#### 2. Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework
+- **Published Date:** 2026-09-02
+- **Summary:** Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.02861v1)
+
+#### 3. Post-Training Language Models for Gold-Medal Performance in Coding Competitions
+- **Published Date:** 2026-09-02
+- **Summary:** Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-e...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.02849v1)
+
+---
