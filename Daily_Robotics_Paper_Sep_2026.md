@@ -198,3 +198,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.02849v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 12:50 PM IST (2026-09-04)
+
+#### 1. Compile by Training: Turning Natural-Language Specifications into Local Neural Functions
+- **Published Date:** 2026-09-03
+- **Summary:** Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.04199v1)
+
+#### 2. Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints
+- **Published Date:** 2026-09-03
+- **Summary:** Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.04198v1)
+
+#### 3. ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize
+- **Published Date:** 2026-09-03
+- **Summary:** Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\times$ longer yet no more accurate. We trace this to three de...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.04197v1)
+
+---
