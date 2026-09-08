@@ -438,3 +438,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.05401v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 12:51 PM IST (2026-09-08)
+
+#### 1. Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction
+- **Published Date:** 2026-09-04
+- **Summary:** Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.05404v1)
+
+#### 2. RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments
+- **Published Date:** 2026-09-04
+- **Summary:** Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserv...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.05403v1)
+
+#### 3. Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models
+- **Published Date:** 2026-09-04
+- **Summary:** Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantical...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.05401v1)
+
+---
