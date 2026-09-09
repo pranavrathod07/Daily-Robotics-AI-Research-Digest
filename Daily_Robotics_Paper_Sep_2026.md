@@ -478,3 +478,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.05401v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 12:59 PM IST (2026-09-09)
+
+#### 1. TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model
+- **Published Date:** 2026-09-08
+- **Summary:** We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.09158v1)
+
+#### 2. Procedural Graphs: Self-Evolving Execution Structures for LLM Agents
+- **Published Date:** 2026-09-08
+- **Summary:** Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.09153v1)
+
+#### 3. Proxy Policy Steering
+- **Published Date:** 2026-09-08
+- **Summary:** Generalist robot policies carry broad manipulation priors from large-scale data, but specializing them to a new task remains the deployment bottleneck. This requires eliciting task-specific behavior f...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.09148v1)
+
+---
