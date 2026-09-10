@@ -538,3 +538,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.09148v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 12:56 PM IST (2026-09-10)
+
+#### 1. Show-Harness: Just a VLM Agent Can Play Robots
+- **Published Date:** 2026-09-09
+- **Summary:** Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harn...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.10522v1)
+
+#### 2. DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation
+- **Published Date:** 2026-09-09
+- **Summary:** Action-conditioned latent world models predict future visual representations, enabling zero-shot goal-conditioned robot planning and control. However, their predictions for fine-grained spatial and ro...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.10506v1)
+
+#### 3. IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier
+- **Published Date:** 2026-09-09
+- **Summary:** Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.10494v1)
+
+---
