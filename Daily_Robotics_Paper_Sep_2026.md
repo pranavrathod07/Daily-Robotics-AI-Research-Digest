@@ -618,3 +618,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.11918v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 06:28 PM IST (2026-09-11)
+
+#### 1. GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay
+- **Published Date:** 2026-09-10
+- **Summary:** Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in mil...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.11923v1)
+
+#### 2. EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking
+- **Published Date:** 2026-09-10
+- **Summary:** Reliable relative localization between aerial and ground robots is a key requirement for tightly coordinated heterogeneous teams. This can be difficult to do using conventional frame-based cameras and...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.11920v1)
+
+#### 3. General Quantification of Covariate and Concept Shifts
+- **Published Date:** 2026-09-10
+- **Summary:** Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from sampl...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.11918v1)
+
+---
