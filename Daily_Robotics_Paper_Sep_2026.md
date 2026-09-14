@@ -678,3 +678,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.11918v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 01:02 AM IST (2026-09-15)
+
+#### 1. Rethinking Heterogeneous System Disaggregation for Subquadratic Attention
+- **Published Date:** 2026-09-11
+- **Summary:** Frontier language models are more aggressively using subquadratic attention to reduce the memory footprint and compute requirements during inference while still delivering frontier accuracy. While exi...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.13134v1)
+
+#### 2. A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios
+- **Published Date:** 2026-09-11
+- **Summary:** Accurate prediction of equity returns remains a major challenge in computational finance due to the non-stationary, nonlinear, and low signal-to-noise ratio nature of financial time series. This paper...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.13125v1)
+
+#### 3. CMA-OT: Hierarchical Expert Supervision for Dance-to-Music Generation
+- **Published Date:** 2026-09-11
+- **Summary:** Dance-to-music (D2M) generation aims to synthesize music that is rhythmically and stylistically aligned with dance videos. A key challenge arises from the semantic mismatch between sparse dance cues, ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.13118v1)
+
+---
