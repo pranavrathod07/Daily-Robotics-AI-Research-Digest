@@ -698,3 +698,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.13118v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 11:53 PM IST (2026-09-15)
+
+#### 1. Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection
+- **Published Date:** 2026-09-14
+- **Summary:** Chain-of-thought (CoT) monitoring is a safety strategy where the reasoning of a large language model "actor" is inspected by a "monitor" (often another language model) for signs of unsafe planning, de...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.15989v1)
+
+#### 2. ResSafe: Learning Safety Filtering with Residual Reinforcement Learning for Humanoids
+- **Published Date:** 2026-09-14
+- **Summary:** Safe control of humanoid robots remains challenging due to their high-dimensional dynamics, contact-rich interactions, and sensitivity to disturbances. Although reinforcement learning has enabled effe...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.15988v1)
+
+#### 3. Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science
+- **Published Date:** 2026-09-14
+- **Summary:** Language models can produce plausible short proofs, but may still be unreliable on long-horizon research problems, where progress depends on a sequence of uncertain and interdependent decisions. We in...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.15983v1)
+
+---
