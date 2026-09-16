@@ -718,3 +718,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.15983v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 01:19 PM IST (2026-09-16)
+
+#### 1. Agentic Societies Need a Social Harness
+- **Published Date:** 2026-09-15
+- **Summary:** An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentall...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.17527v1)
+
+#### 2. Modality-Autoregressive World-Action Models
+- **Published Date:** 2026-09-15
+- **Summary:** World-action models (WAMs) jointly model future observations and actions, typically predicting the future as RGB images. Other visual modalities such as depth, pretrained visual features, and point tr...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.17524v1)
+
+#### 3. ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents
+- **Published Date:** 2026-09-15
+- **Summary:** We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports rese...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.17523v1)
+
+---
