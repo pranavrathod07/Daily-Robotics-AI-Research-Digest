@@ -758,3 +758,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.17523v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 02:10 AM IST (2026-09-29)
+
+#### 1. Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency
+- **Published Date:** 2026-09-25
+- **Summary:** Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping me...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.31619v1)
+
+#### 2. Statistical attribute alignment for black-box generative AI via output post-processing
+- **Published Date:** 2026-09-25
+- **Summary:** Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-gener...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.31607v1)
+
+#### 3. Learning Robot Policies from Sparse Success Signals via STL-Guided Stein Variational Policy Gradient
+- **Published Date:** 2026-09-25
+- **Summary:** Learning robot policies for tasks with sparse success signals is challenging when completion depends on coordinated actions, precise contact outcomes, or satisfying several conditions together. Intric...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.31606v1)
+
+---
