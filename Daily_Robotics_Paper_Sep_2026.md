@@ -798,3 +798,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.35767v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 08:30 PM IST (2026-09-29)
+
+#### 1. FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets
+- **Published Date:** 2026-09-28
+- **Summary:** Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.35770v1)
+
+#### 2. Telescopic Language Models
+- **Published Date:** 2026-09-28
+- **Summary:** One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to b...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.35769v1)
+
+#### 3. Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning
+- **Published Date:** 2026-09-28
+- **Summary:** Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose agai...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.35767v1)
+
+---
