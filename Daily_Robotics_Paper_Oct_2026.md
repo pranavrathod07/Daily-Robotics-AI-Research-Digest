@@ -58,3 +58,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.40353v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 01:12 AM IST (2026-10-02)
+
+#### 1. Semifactual Credit-Augmented Policy Optimization
+- **Published Date:** 2026-09-30
+- **Summary:** Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.40360v1)
+
+#### 2. ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing
+- **Published Date:** 2026-09-30
+- **Summary:** Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.40356v1)
+
+#### 3. AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents
+- **Published Date:** 2026-09-30
+- **Summary:** The task of 3D assembly requires translating an understanding of parts and their relationships into precise spatial arrangements. Can pretrained general-purpose agents assemble objects through visual ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2609.40353v1)
+
+---
