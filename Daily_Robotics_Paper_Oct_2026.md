@@ -138,3 +138,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.02204v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 01:55 PM IST (2026-10-03)
+
+#### 1. One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars
+- **Published Date:** 2026-10-01
+- **Summary:** 3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.02207v1)
+
+#### 2. KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards
+- **Published Date:** 2026-10-01
+- **Summary:** LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessment...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.02206v1)
+
+#### 3. Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents
+- **Published Date:** 2026-10-01
+- **Summary:** Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruc...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.02204v1)
+
+---
