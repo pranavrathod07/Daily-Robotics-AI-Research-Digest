@@ -258,3 +258,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.02204v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 02:55 PM IST (2026-10-05)
+
+#### 1. Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis
+- **Published Date:** 2026-10-02
+- **Summary:** This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geom...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.03717v1)
+
+#### 2. 4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes
+- **Published Date:** 2026-10-02
+- **Summary:** We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.03715v1)
+
+#### 3. What Should World Models Forget? Stratified Retention for Continual Adaptation
+- **Published Date:** 2026-10-02
+- **Summary:** Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct in...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.03713v1)
+
+---
