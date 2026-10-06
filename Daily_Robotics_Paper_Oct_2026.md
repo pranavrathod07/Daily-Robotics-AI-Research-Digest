@@ -338,3 +338,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.06850v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 08:53 PM IST (2026-10-06)
+
+#### 1. One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline
+- **Published Date:** 2026-10-05
+- **Summary:** Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.06852v1)
+
+#### 2. Base Models Can Reason By Taking a Cue From Training Data
+- **Published Date:** 2026-10-05
+- **Summary:** In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing par...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.06851v1)
+
+#### 3. InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation
+- **Published Date:** 2026-10-05
+- **Summary:** Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a sel...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.06850v1)
+
+---
