@@ -418,3 +418,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.08782v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 01:34 AM IST (2026-10-08)
+
+#### 1. QF3: Fast Flow RL with Filtered Q-Gradients
+- **Published Date:** 2026-10-06
+- **Summary:** Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning the...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.08789v1)
+
+#### 2. PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation
+- **Published Date:** 2026-10-06
+- **Summary:** Pretrained robotic policies can suffer substantial performance degradation under out-of-distribution (OOD) conditions encountered during deployment, motivating post-training through real-world interac...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.08784v1)
+
+#### 3. 4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction
+- **Published Date:** 2026-10-06
+- **Summary:** Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to un...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.08782v1)
+
+---
