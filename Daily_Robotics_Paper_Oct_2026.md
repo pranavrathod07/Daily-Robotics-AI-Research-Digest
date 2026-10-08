@@ -478,3 +478,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.10534v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 01:32 AM IST (2026-10-09)
+
+#### 1. Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos
+- **Published Date:** 2026-10-07
+- **Summary:** As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container,...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.10538v1)
+
+#### 2. Decoupling Exploration from Optimization in RLVR
+- **Published Date:** 2026-10-07
+- **Summary:** Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In princ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.10536v1)
+
+#### 3. RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input
+- **Published Date:** 2026-10-07
+- **Summary:** End-to-end robot policies trained through imitation learning remain constrained by limited data diversity, making reliable zero-shot deployment in real-world settings challenging. Shared-autonomy meth...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.10534v1)
+
+---
