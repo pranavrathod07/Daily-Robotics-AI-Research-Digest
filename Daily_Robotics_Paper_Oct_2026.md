@@ -578,3 +578,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.12467v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 08:07 PM IST (2026-10-10)
+
+#### 1. Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration
+- **Published Date:** 2026-10-08
+- **Summary:** While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such stri...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.12470v1)
+
+#### 2. DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training
+- **Published Date:** 2026-10-08
+- **Summary:** We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacl...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.12468v1)
+
+#### 3. CSF: Contextual Safety Filtering for Motion Generators
+- **Published Date:** 2026-10-08
+- **Summary:** Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.12467v1)
+
+---
