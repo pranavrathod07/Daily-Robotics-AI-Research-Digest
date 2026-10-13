@@ -758,3 +758,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.13943v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 09:48 PM IST (2026-10-13)
+
+#### 1. Can Language Models Play the Wikipedia Game?
+- **Published Date:** 2026-10-09
+- **Summary:** Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowled...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.13948v1)
+
+#### 2. Splat2Act: From Captured Scenes to Personalized VLA Manipulation
+- **Published Date:** 2026-10-09
+- **Summary:** A user who brings a generalist manipulation policy into their home or office wants it to pick up their objects from their shelves, counters, and tables. Yet even a strong generalist like $π_{0.5}$ ach...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.13945v1)
+
+#### 3. Noise Space Learning for VLA Adaptation
+- **Published Date:** 2026-10-09
+- **Summary:** Pretrained vision-language-action (VLA) models encode broad manipulation priors, yet adapting them to specific tasks requires balancing limited robot interaction, computational resources, and safety c...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.13943v1)
+
+---
