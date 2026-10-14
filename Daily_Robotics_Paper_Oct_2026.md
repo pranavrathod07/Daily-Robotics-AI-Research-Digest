@@ -838,3 +838,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.18872v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 12:17 AM IST (2026-10-15)
+
+#### 1. ChunkAct: Action Chunking for Agentic Robotics
+- **Published Date:** 2026-10-13
+- **Summary:** Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.18874v1)
+
+#### 2. LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts
+- **Published Date:** 2026-10-13
+- **Summary:** Scaling expert demonstrations alone does not enable generalist robot policies to improve from deployment. Real-world rollouts contain successes, suboptimal behavior, and failures: imitating every reco...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.18873v1)
+
+#### 3. EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ
+- **Published Date:** 2026-10-13
+- **Summary:** Learning humanoid loco-manipulation from human demonstrations rests on observing how locomotion, posture, and object interaction evolve together as tasks unfold. Scaling collection across diverse envi...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.18872v1)
+
+---
