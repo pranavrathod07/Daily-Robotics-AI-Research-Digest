@@ -878,3 +878,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.20607v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 07:07 PM IST (2026-10-15)
+
+#### 1. SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving
+- **Published Date:** 2026-10-14
+- **Summary:** Vision-Language-Action (VLA) models are gaining attention in autonomous driving, inheriting commonsense priors from large language models (LLMs) and widening the navigation interface from a fixed comm...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.20609v1)
+
+#### 2. Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion
+- **Published Date:** 2026-10-14
+- **Summary:** Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.20606v1)
+
+#### 3. Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance
+- **Published Date:** 2026-10-14
+- **Summary:** Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling be...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.20607v1)
+
+---
