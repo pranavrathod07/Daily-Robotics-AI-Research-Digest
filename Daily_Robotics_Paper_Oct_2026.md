@@ -978,3 +978,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.22367v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 10:56 PM IST (2026-10-17)
+
+#### 1. LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation
+- **Published Date:** 2026-10-15
+- **Summary:** Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.22372v1)
+
+#### 2. Value as Memory: Online Value-Guided Post-training for General Robot Policies
+- **Published Date:** 2026-10-15
+- **Summary:** Real-world post-training of generalist robot policies faces two challenges: partial observability makes action selection ambiguous, while offline post-training methods delay feedback from deployment e...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.22368v1)
+
+#### 3. Discovering state-of-the-art quantum circuits with large language models
+- **Published Date:** 2026-10-15
+- **Summary:** Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of effici...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.22367v1)
+
+---
