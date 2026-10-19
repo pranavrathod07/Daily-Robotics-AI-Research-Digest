@@ -1058,3 +1058,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.22367v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 01:29 PM IST (2026-10-19)
+
+#### 1. Rethinking the design space of Vanilla Pixel Diffusion Transformers
+- **Published Date:** 2026-10-16
+- **Summary:** Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.23854v1)
+
+#### 2. Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts
+- **Published Date:** 2026-10-16
+- **Summary:** Every robot already carries high-resolution contact sensors: its own joints. Legged robots and humanoids exploit them to walk, run, and track whole-body motions without vision, but there the contacts ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.23849v1)
+
+#### 3. Behavioral Couplings: From Formation to Behavioral Emergence in Language Models
+- **Published Date:** 2026-10-16
+- **Summary:** Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to wr...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.23847v1)
+
+---
