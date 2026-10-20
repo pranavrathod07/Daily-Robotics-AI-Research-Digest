@@ -1158,3 +1158,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.26855v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 12:06 AM IST (2026-10-21)
+
+#### 1. OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory
+- **Published Date:** 2026-10-19
+- **Summary:** Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled stud...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.26860v1)
+
+#### 2. Reinforcement Learning with Visually Attributable On-Policy Self-Distillation
+- **Published Date:** 2026-10-19
+- **Summary:** Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distill...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.26856v1)
+
+#### 3. Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience
+- **Published Date:** 2026-10-19
+- **Summary:** World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action space...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.26855v1)
+
+---
