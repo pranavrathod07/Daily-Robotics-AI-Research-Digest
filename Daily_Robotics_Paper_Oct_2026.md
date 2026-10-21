@@ -1178,3 +1178,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.26855v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 01:23 PM IST (2026-10-21)
+
+#### 1. Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs
+- **Published Date:** 2026-10-20
+- **Summary:** Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.28632v1)
+
+#### 2. GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery
+- **Published Date:** 2026-10-20
+- **Summary:** Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigation...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.28629v1)
+
+#### 3. Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking
+- **Published Date:** 2026-10-20
+- **Summary:** Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning reci...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.28628v1)
+
+---
