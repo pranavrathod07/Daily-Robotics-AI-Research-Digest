@@ -1258,3 +1258,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.30125v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 07:31 PM IST (2026-10-22)
+
+#### 1. Agentic World Action Models
+- **Published Date:** 2026-10-21
+- **Summary:** Recent world action models provide visual foresight and future prediction for robot manipulation, but lack explicit mechanisms for compositional skill reuse. Agentic robotics combines code-based plann...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.30136v1)
+
+#### 2. Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation
+- **Published Date:** 2026-10-21
+- **Summary:** Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challeng...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.30128v1)
+
+#### 3. PhysiCalWorld: In-Context Physics Calibration for World Models
+- **Published Date:** 2026-10-21
+- **Summary:** Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dy...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.30125v1)
+
+---
