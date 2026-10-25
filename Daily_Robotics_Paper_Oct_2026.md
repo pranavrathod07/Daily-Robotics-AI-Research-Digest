@@ -1438,3 +1438,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.31661v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 06:48 PM IST (2026-10-25)
+
+#### 1. Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success
+- **Published Date:** 2026-10-22
+- **Summary:** Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.31670v1)
+
+#### 2. Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning
+- **Published Date:** 2026-10-22
+- **Summary:** Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Runn...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.31667v1)
+
+#### 3. OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing
+- **Published Date:** 2026-10-22
+- **Summary:** We present OpenTac, a novel sensor and a full-stack ecosystem for tactile skins that are highly customizable, scalable, and readily deployed in downstream robot control and learning applications. Our ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.31661v1)
+
+---
