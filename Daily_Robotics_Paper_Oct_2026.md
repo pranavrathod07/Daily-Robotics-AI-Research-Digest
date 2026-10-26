@@ -1518,3 +1518,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.32969v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 01:33 AM IST (2026-10-27)
+
+#### 1. SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning
+- **Published Date:** 2026-10-23
+- **Summary:** Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.32978v1)
+
+#### 2. RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms
+- **Published Date:** 2026-10-23
+- **Summary:** Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mecha...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.32971v1)
+
+#### 3. DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection
+- **Published Date:** 2026-10-23
+- **Summary:** Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and plac...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.32969v1)
+
+---
