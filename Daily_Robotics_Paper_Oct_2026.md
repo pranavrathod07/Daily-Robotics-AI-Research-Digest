@@ -1578,3 +1578,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.35862v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 01:02 AM IST (2026-10-28)
+
+#### 1. Retriever-Free Retrieval: Navigating Documents with Decision Models
+- **Published Date:** 2026-10-26
+- **Summary:** While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the r...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.35868v1)
+
+#### 2. Center-of-Mass Interpretation of Evolution Strategies
+- **Published Date:** 2026-10-26
+- **Summary:** Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presen...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.35865v1)
+
+#### 3. Learning Force-Reactive Humanoid Loco-Manipulation
+- **Published Date:** 2026-10-26
+- **Summary:** Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.35862v1)
+
+---
