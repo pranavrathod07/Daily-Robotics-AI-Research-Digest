@@ -1598,3 +1598,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.35862v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 08:51 PM IST (2026-10-28)
+
+#### 1. Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction
+- **Published Date:** 2026-10-27
+- **Summary:** Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We int...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.37668v1)
+
+#### 2. ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning
+- **Published Date:** 2026-10-27
+- **Summary:** Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstra...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.37666v1)
+
+#### 3. Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops
+- **Published Date:** 2026-10-27
+- **Summary:** Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's fa...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.37656v1)
+
+---
