@@ -98,3 +98,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.42141v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 12:13 AM IST (2026-11-03)
+
+#### 1. Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention
+- **Published Date:** 2026-10-30
+- **Summary:** Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tok...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.42147v1)
+
+#### 2. Hierarchical World Models with Implicit Dynamics
+- **Published Date:** 2026-10-30
+- **Summary:** Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative err...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.42146v1)
+
+#### 3. RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory
+- **Published Date:** 2026-10-30
+- **Summary:** Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet to...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2610.42141v1)
+
+---
