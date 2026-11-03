@@ -178,3 +178,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.03641v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 02:03 AM IST (2026-11-04)
+
+#### 1. Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations
+- **Published Date:** 2026-11-02
+- **Summary:** Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.03647v1)
+
+#### 2. Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation
+- **Published Date:** 2026-11-02
+- **Summary:** General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these compone...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.03648v1)
+
+#### 3. From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles
+- **Published Date:** 2026-11-02
+- **Summary:** Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style questi...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.03641v1)
+
+---
