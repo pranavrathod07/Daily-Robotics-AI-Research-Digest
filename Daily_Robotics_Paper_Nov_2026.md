@@ -198,3 +198,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.03641v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 09:59 PM IST (2026-11-04)
+
+#### 1. DreamX: Video Diffusion Model is a Universal Latent Action Learner
+- **Published Date:** 2026-11-03
+- **Summary:** Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearanc...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.05377v1)
+
+#### 2. From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence
+- **Published Date:** 2026-11-03
+- **Summary:** For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.05376v1)
+
+#### 3. Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization
+- **Published Date:** 2026-11-03
+- **Summary:** Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.05373v1)
+
+---
