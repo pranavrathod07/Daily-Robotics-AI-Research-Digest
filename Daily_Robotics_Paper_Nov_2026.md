@@ -238,3 +238,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.05373v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 03:13 PM IST (2026-11-05)
+
+#### 1. cuRoboV2-Fast: Fast Torque-Limited Collision-Free Motion Planning
+- **Published Date:** 2026-11-04
+- **Summary:** We present cuRoboV2-Fast, a GPU-accelerated planner that reduces both planning latency and execution time for collision-free, payload-aware, torque-limited motions. B-spline trajectory optimization re...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.06913v1)
+
+#### 2. BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories
+- **Published Date:** 2026-11-04
+- **Summary:** Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act und...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.06911v1)
+
+#### 3. FrontierPhysics: Evaluating Agents for End-to-End Physics Research
+- **Published Date:** 2026-11-04
+- **Summary:** AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solut...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.06910v1)
+
+---
