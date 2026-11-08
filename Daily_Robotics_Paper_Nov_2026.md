@@ -438,3 +438,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.08472v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 09:00 PM IST (2026-11-08)
+
+#### 1. SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization
+- **Published Date:** 2026-11-05
+- **Summary:** LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.08483v1)
+
+#### 2. Scientist World: Grow a Research World for AI-Scientists
+- **Published Date:** 2026-11-05
+- **Summary:** AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Sc...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.08478v1)
+
+#### 3. XStack: A Benchmark for ML Repo Migration
+- **Published Date:** 2026-11-05
+- **Summary:** ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repos...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.08472v1)
+
+---
