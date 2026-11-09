@@ -478,3 +478,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.08472v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 03:33 PM IST (2026-11-09)
+
+#### 1. On Agentic Manipulation Policies
+- **Published Date:** 2026-11-06
+- **Summary:** Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.09892v1)
+
+#### 2. CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse
+- **Published Date:** 2026-11-06
+- **Summary:** Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task h...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.09891v1)
+
+#### 3. Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving
+- **Published Date:** 2026-11-06
+- **Summary:** Scenario-based simulation is central to evaluating autonomous-driving policies, but a scenario scripted before execution (i.e., with predetermined, fixed actor routes and speeds) may not preserve its ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.09888v1)
+
+---
