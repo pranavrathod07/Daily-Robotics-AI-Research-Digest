@@ -538,3 +538,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.09888v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 03:42 PM IST (2026-11-10)
+
+#### 1. World In-Context Learning for Agentic Robot Manipulation
+- **Published Date:** 2026-11-09
+- **Summary:** Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.12885v1)
+
+#### 2. HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents
+- **Published Date:** 2026-11-09
+- **Summary:** As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.12872v1)
+
+#### 3. SWAM: Scaling World Action Models with Cross-Modal Alignment
+- **Published Date:** 2026-11-09
+- **Summary:** World action models jointly predict video and actions conditioned on language. Existing studies focus primarily on architectures and training mechanisms, typically treating language-video alignment ac...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.12870v1)
+
+---
