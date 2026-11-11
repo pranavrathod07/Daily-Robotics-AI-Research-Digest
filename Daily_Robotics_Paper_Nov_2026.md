@@ -618,3 +618,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.14514v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 09:59 PM IST (2026-11-11)
+
+#### 1. Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training
+- **Published Date:** 2026-11-10
+- **Summary:** Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.14519v1)
+
+#### 2. Toward Foundation Detection Models via Example-Based Grounding in EM-DETR
+- **Published Date:** 2026-11-10
+- **Summary:** DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.14518v1)
+
+#### 3. Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations
+- **Published Date:** 2026-11-10
+- **Summary:** LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\neg h$. ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.14514v1)
+
+---
