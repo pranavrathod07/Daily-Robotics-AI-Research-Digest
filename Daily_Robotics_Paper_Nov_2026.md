@@ -738,3 +738,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.17316v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 10:10 PM IST (2026-11-13)
+
+#### 1. ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation
+- **Published Date:** 2026-11-12
+- **Summary:** Vision language navigation (VLN) is very challenging for Unmanned Aerial Vehicles (UAVs) since small errors in 3D motion prediction can lead to navigation errors and collisions. Unable to fathom execu...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.17330v1)
+
+#### 2. AgentSSL: Can MLE Agents Leverage Unlabeled Data?
+- **Published Date:** 2026-11-12
+- **Summary:** Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline de...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.17323v1)
+
+#### 3. CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation
+- **Published Date:** 2026-11-12
+- **Summary:** Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing fut...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.17316v1)
+
+---
