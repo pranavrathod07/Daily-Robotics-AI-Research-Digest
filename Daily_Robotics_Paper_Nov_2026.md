@@ -898,3 +898,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.17316v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 03:29 PM IST (2026-11-16)
+
+#### 1. Training Reasoning Models in Simulation to Natively Use Real Robots
+- **Published Date:** 2026-11-13
+- **Summary:** Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 As...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.18562v1)
+
+#### 2. WeightBench: Evaluating Language Models as Weight-Space Programmers
+- **Published Date:** 2026-11-13
+- **Summary:** Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.18553v1)
+
+#### 3. Modeling the Frictional Contact of Continuum Robots with Environments through Linear Complementarity Problem
+- **Published Date:** 2026-11-13
+- **Summary:** Accurate friction modeling in continuum robots is essential for precise motion control and path planning. However, current approaches make predictions only for the mechanism's internal friction that i...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.18546v1)
+
+---
