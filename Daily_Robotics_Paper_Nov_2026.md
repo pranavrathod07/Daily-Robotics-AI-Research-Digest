@@ -978,3 +978,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.21605v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 11:17 PM IST (2026-11-17)
+
+#### 1. Latent Lattice Language Models
+- **Published Date:** 2026-11-16
+- **Summary:** Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instea...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.21608v1)
+
+#### 2. ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters
+- **Published Date:** 2026-11-16
+- **Summary:** Frontier Vision-Language Models (VLMs) such as GPT-6 Astra have demonstrated remarkable capabilities in robot control, suggesting that broad pretraining provides knowledge valuable for physical action...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.21607v1)
+
+#### 3. ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization
+- **Published Date:** 2026-11-16
+- **Summary:** Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinfor...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.21605v1)
+
+---
