@@ -1078,3 +1078,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.23219v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 04:05 PM IST (2026-11-19)
+
+#### 1. $Z$-sight: Unifying Vision-Language-Action and Latent World Modeling
+- **Published Date:** 2026-11-18
+- **Summary:** We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling. Video-based world action models (WAMs) show the value of joint ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.24940v1)
+
+#### 2. Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models
+- **Published Date:** 2026-11-18
+- **Summary:** World-action models jointly predict future observations and actions, yet reconstruction-oriented visual representations do not explicitly emphasize the spatial relationships and object-state changes n...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.24938v1)
+
+#### 3. Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems
+- **Published Date:** 2026-11-18
+- **Summary:** When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the align...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.24932v1)
+
+---
