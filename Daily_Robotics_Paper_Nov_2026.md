@@ -1178,3 +1178,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.26613v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 03:25 AM IST (2026-11-21)
+
+#### 1. PlayCraft: Designing Engaging Games from Agent Play Experience
+- **Published Date:** 2026-11-19
+- **Summary:** Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We pro...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.26624v1)
+
+#### 2. One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning
+- **Published Date:** 2026-11-19
+- **Summary:** Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.26617v1)
+
+#### 3. AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control
+- **Published Date:** 2026-11-19
+- **Summary:** Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, exi...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.26613v1)
+
+---
