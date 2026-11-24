@@ -1358,3 +1358,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.27963v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 07:17 AM IST (2026-11-24)
+
+#### 1. Optimal Linear Regression Without a Variance
+- **Published Date:** 2026-11-20
+- **Summary:** We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\in(1,2)$, and the covariates ma...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.27983v1)
+
+#### 2. Task2Hand: A Contact-Grounded Skill for Parametric Dexterous-Hand Morphology Design
+- **Published Date:** 2026-11-20
+- **Summary:** Dexterous hand design demands repeated expert work across geometry, robot-description code, collision debugging, grasp initialization, and policy training. We present Task2Hand, a Skill: a specificati...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.27967v1)
+
+#### 3. Non-penetrating World Models
+- **Published Date:** 2026-11-20
+- **Summary:** We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world m...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.27963v1)
+
+---
