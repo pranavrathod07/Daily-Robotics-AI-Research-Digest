@@ -1418,3 +1418,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.31222v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 05:05 AM IST (2026-11-25)
+
+#### 1. Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action
+- **Published Date:** 2026-11-23
+- **Summary:** Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study str...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.31240v1)
+
+#### 2. Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ
+- **Published Date:** 2026-11-23
+- **Summary:** Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This s...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.31228v1)
+
+#### 3. CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans
+- **Published Date:** 2026-11-23
+- **Summary:** Radiology reports describe findings in text only, without visually marking them on the scan, so readers cannot directly see which abnormality each reported finding refers to. We introduce CTLink, a te...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.31222v1)
+
+---
