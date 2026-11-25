@@ -1458,3 +1458,23 @@
 - **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.33143v1)
 
 ---
+
+
+### 🤖 Robotics & AI Digest - Updated at 12:17 AM IST (2026-11-26)
+
+#### 1. OmniAct: One Policy, One Million Embodiments
+- **Published Date:** 2026-11-24
+- **Summary:** A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.33158v1)
+
+#### 2. PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents
+- **Published Date:** 2026-11-24
+- **Summary:** Learning for dexterous manipulation is limited by the scarcity of high-quality demonstrations: retargeting from human video is imprecise, teleoperation gives no force feedback to the operator, and exo...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.33144v1)
+
+#### 3. ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification
+- **Published Date:** 2026-11-24
+- **Summary:** Embodied spatial intelligence requires agents to gather information through exploration and interaction, then use it to reason and act. Existing benchmarks insufficiently distinguish correct outcomes ...
+- **Paper Link:** [Read on ArXiv](http://arxiv.org/abs/2611.33143v1)
+
+---
